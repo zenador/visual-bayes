@@ -1,0 +1,5 @@
+numpy
+plotly
+IPython
+ipywidgets
+six
